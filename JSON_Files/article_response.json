@@ -1,0 +1,1239 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2020 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/b50478ea-ca81-5729-9be9-6d083426a2a2",
+      "url": "https://www.nytimes.com/2020/09/08/opinion/biden-trump-humiliation.html",
+      "id": 100000007329368,
+      "asset_id": 100000007329368,
+      "source": "New York Times",
+      "published_date": "2020-09-08",
+      "updated": "2020-09-09 18:28:26",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Presidential Election of 2020;United States Politics and Government;Biden, Joseph R Jr;Trump, Donald J;Sandel, Michael J;Democratic Party;Republican Party;United States",
+      "column": null,
+      "byline": "By Thomas L. Friedman",
+      "type": "Article",
+      "title": "Who Can Win America\u2019s Politics of Humiliation?",
+      "abstract": "Trump or Biden?",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Democratic Party",
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Trump, Donald J",
+        "Sandel, Michael J"
+      ],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Joe Biden at a community meeting in Kenosha, Wis., last week.",
+          "copyright": "Kriston Jae Bethel for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/08/opinion/08friedmanWeb/08friedmanWeb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/08/opinion/08friedmanWeb/08friedmanWeb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/08/opinion/08friedmanWeb/08friedmanWeb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/4638277a-4fda-5738-ba27-45b4398f29d4",
+      "url": "https://www.nytimes.com/2020/09/09/opinion/united-states-social-progress.html",
+      "id": 100000007332239,
+      "asset_id": 100000007332239,
+      "source": "New York Times",
+      "published_date": "2020-09-09",
+      "updated": "2020-09-10 23:26:45",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Third World and Developing Countries;Education;Coronavirus (2019-nCoV);United States Politics and Government;Discrimination;Mental Health and Disorders;Drug Abuse and Traffic;United States",
+      "column": null,
+      "byline": "By Nicholas Kristof",
+      "type": "Article",
+      "title": "\u2018We\u2019re No. 28! And Dropping!\u2019",
+      "abstract": "A measure of social progress finds that the quality of life has dropped in America over the last decade, even as it has risen almost everywhere else.",
+      "des_facet": [
+        "Third World and Developing Countries",
+        "Education",
+        "Coronavirus (2019-nCoV)",
+        "United States Politics and Government",
+        "Discrimination",
+        "Mental Health and Disorders",
+        "Drug Abuse and Traffic"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A woman in Pennington Gap, Va., a town that has suffered the ravages of the epidemic of despair.",
+          "copyright": "Johnathon Kelso for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/09/opinion/09kristofWeb/merlin_159293178_6c25e43e-0d9d-4d8a-b72c-298dbd7e7f44-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/09/opinion/09kristofWeb/09kristofWeb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/09/opinion/09kristofWeb/09kristofWeb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/f8da7d9f-dec8-559e-ad96-bc30245a846a",
+      "url": "https://www.nytimes.com/2020/06/18/health/resilience-relationships-trauma.html",
+      "id": 100000007182686,
+      "asset_id": 100000007182686,
+      "source": "New York Times",
+      "published_date": "2020-06-18",
+      "updated": "2020-06-22 17:13:54",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "Content Type: Service;Post-Traumatic Stress Disorder;Psychology and Psychologists;Anxiety and Stress",
+      "column": null,
+      "byline": "By Eilene Zimmerman",
+      "type": "Article",
+      "title": "What Makes Some People More Resilient Than Others",
+      "abstract": "The very earliest days of our lives, and our closest relationships, can offer clues about how we cope with adversity.",
+      "des_facet": [
+        "Content Type: Service",
+        "Post-Traumatic Stress Disorder",
+        "Psychology and Psychologists",
+        "Anxiety and Stress"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Monika Aichele",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/18/multimedia/18sp-resilience-zimmerman/18sp-resilience-zimmerman-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/18/multimedia/18sp-resilience-zimmerman/18sp-resilience-zimmerman-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/18/multimedia/18sp-resilience-zimmerman/18sp-resilience-zimmerman-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/f3439c4c-263c-50e2-ad9b-af74c10a18cd",
+      "url": "https://www.nytimes.com/2020/09/24/opinion/religion-politics.html",
+      "id": 100000007359515,
+      "asset_id": 100000007359515,
+      "source": "New York Times",
+      "published_date": "2020-09-24",
+      "updated": "2020-09-25 20:00:24",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Appointments and Executive Changes;Federal Courts (US);Religion and Belief;Courts and the Judiciary;United States Politics and Government;Ethics (Personal);Barrett, Amy Coney;Supreme Court (US)",
+      "column": null,
+      "byline": "By David Brooks",
+      "type": "Article",
+      "title": "How Faith Shapes My Politics",
+      "abstract": "Not as much as you\u2019d think.",
+      "des_facet": [
+        "Appointments and Executive Changes",
+        "Federal Courts (US)",
+        "Religion and Belief",
+        "Courts and the Judiciary",
+        "United States Politics and Government",
+        "Ethics (Personal)"
+      ],
+      "org_facet": [
+        "Supreme Court (US)"
+      ],
+      "per_facet": [
+        "Barrett, Amy Coney"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Ryan Christopher Jones for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/24/opinion/24brooksWeb/24brooksWeb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/24/opinion/24brooksWeb/24brooksWeb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/24/opinion/24brooksWeb/24brooksWeb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/428274fa-2d8e-5ea7-8d12-b45d9dfc26f6",
+      "url": "https://www.nytimes.com/2020/09/25/opinion/debate-trump-biden-lie.html",
+      "id": 100000007347301,
+      "asset_id": 100000007347301,
+      "source": "New York Times",
+      "published_date": "2020-09-25",
+      "updated": "2020-09-28 17:07:51",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Presidential Election of 2020;Rumors and Misinformation;Lying;Debates (Political);United States Politics and Government;Coronavirus (2019-nCoV);Biden, Joseph R Jr;Trump, Donald J",
+      "column": null,
+      "byline": "By Richard A. Friedman",
+      "type": "Article",
+      "title": "How to Debate Someone Who Lies",
+      "abstract": "Truth sandwiches, ridicule and other tactics for Joe Biden when he faces President Trump.",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Rumors and Misinformation",
+        "Lying",
+        "Debates (Political)",
+        "United States Politics and Government",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by Alvaro Dominguez; photograph by Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/27/opinion/sunday/24friedman/24friedman-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/27/opinion/sunday/24friedman/24friedman-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/27/opinion/sunday/24friedman/24friedman-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c9d1c12f-da7c-5cb3-9b8a-5ec5f4bd486b",
+      "url": "https://www.nytimes.com/2020/09/05/opinion/sunday/trump-promises-check.html",
+      "id": 100000007325141,
+      "asset_id": 100000007325141,
+      "source": "New York Times",
+      "published_date": "2020-09-05",
+      "updated": "2020-09-08 15:25:26",
+      "section": "Opinion",
+      "subsection": "Sunday Review",
+      "nytdsection": "opinion",
+      "adx_keywords": "Presidential Election of 2020;United States Politics and Government;Trump, Donald J",
+      "column": null,
+      "byline": "By Nicholas Kristof",
+      "type": "Article",
+      "title": "\u2018I Keep My Promises,\u2019 Trump Said. Let\u2019s Check.",
+      "abstract": "Here\u2019s a report card on whether the president met his 2016 campaign pledges.",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Carolyn Kaster/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/06/opinion/06Kristof/06Kristof-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/06/opinion/06Kristof/06Kristof-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/06/opinion/06Kristof/06Kristof-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e25d3a8c-99e3-521d-ab59-4b619d0f5151",
+      "url": "https://www.nytimes.com/2020/09/02/well/move/aging-exercise-walking-cycling.html",
+      "id": 100000007318640,
+      "asset_id": 100000007318640,
+      "source": "New York Times",
+      "published_date": "2020-09-02",
+      "updated": "2020-09-08 02:09:00",
+      "section": "Well",
+      "subsection": "Move",
+      "nytdsection": "well",
+      "adx_keywords": "Exercise;Running;Longevity;Age, Chronological;Bicycles and Bicycling;Mitochondria;Elderly",
+      "column": null,
+      "byline": "By Gretchen Reynolds",
+      "type": "Article",
+      "title": "For Successful Aging, Pick Up the Pace or Mix It Up",
+      "abstract": "Older people who cycled for exercise walked more efficiently than people whose primary exercise is placid walking.",
+      "des_facet": [
+        "Exercise",
+        "Running",
+        "Longevity",
+        "Age, Chronological",
+        "Bicycles and Bicycling",
+        "Mitochondria",
+        "Elderly"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/08/well/physed-cycle-walk/physed-cycle-walk-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/08/well/physed-cycle-walk/physed-cycle-walk-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/08/well/physed-cycle-walk/physed-cycle-walk-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/f65c2bbe-f44e-5303-97d4-6568e608b226",
+      "url": "https://www.nytimes.com/2020/09/29/opinion/trump-election-fraud-2020.html",
+      "id": 100000007367744,
+      "asset_id": 100000007367744,
+      "source": "New York Times",
+      "published_date": "2020-09-29",
+      "updated": "2020-09-30 20:13:25",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Debates (Political);United States Politics and Government;Absentee Voting;Biden, Joseph R Jr;Trump, Donald J;Republican Party;Democratic Party",
+      "column": null,
+      "byline": "By Thomas L. Friedman",
+      "type": "Article",
+      "title": "Trump Sent a Warning. Let\u2019s Take It Seriously.",
+      "abstract": "Our democracy is in terrible danger \u2014 more than since the Civil War, more than after Pearl Harbor, more than during the Cuban missile crisis.",
+      "des_facet": [
+        "Debates (Political)",
+        "United States Politics and Government",
+        "Absentee Voting"
+      ],
+      "org_facet": [
+        "Republican Party",
+        "Democratic Party"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Brendan Smialowski/Agence France-Presse \u2014 Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/opinion/29friedmanWeb/29friedmanWeb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/opinion/29friedmanWeb/29friedmanWeb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/opinion/29friedmanWeb/29friedmanWeb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/1429783b-14d1-52c9-a538-f225bb66c87e",
+      "url": "https://www.nytimes.com/2020/09/02/style/jane-fonda-maureen-dowd.html",
+      "id": 100000007319006,
+      "asset_id": 100000007319006,
+      "source": "New York Times",
+      "published_date": "2020-09-02",
+      "updated": "2020-09-06 18:49:32",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "Demonstrations, Protests and Riots;Movies;Actors and Actresses;Television;Women and Girls;Vietnam War;Global Warming;United States Politics and Government;your-feed-selfcare;your-feed-fashion;Fonda, Jane;Turner, Ted;Trump, Donald J;Netflix Inc",
+      "column": null,
+      "byline": "By Maureen Dowd",
+      "type": "Article",
+      "title": "Jane Fonda, Intergalactic Eco-Warrior in a Red Coat",
+      "abstract": "The leg warmers. Barbarella. The Vietnam War. Tom Hayden and Ted Turner. And she\u2019s not done yet.",
+      "des_facet": [
+        "Demonstrations, Protests and Riots",
+        "Movies",
+        "Actors and Actresses",
+        "Television",
+        "Women and Girls",
+        "Vietnam War",
+        "Global Warming",
+        "United States Politics and Government",
+        "your-feed-selfcare",
+        "your-feed-fashion"
+      ],
+      "org_facet": [
+        "Netflix Inc"
+      ],
+      "per_facet": [
+        "Fonda, Jane",
+        "Turner, Ted",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Ryan Pfluger for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/02/fashion/02WITH-JANEFONDA-promo/02WITH-JANEFONDA-promo-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/02/fashion/02WITH-JANEFONDA-promo/02WITH-JANEFONDA-promo-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/02/fashion/02WITH-JANEFONDA-promo/02WITH-JANEFONDA-promo-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/879baa8d-1950-5a13-b26d-4a3006181c87",
+      "url": "https://www.nytimes.com/2020/09/08/well/live/dentists-tooth-teeth-cracks-fractures-coronavirus-stress-grinding.html",
+      "id": 100000007320866,
+      "asset_id": 100000007320866,
+      "source": "New York Times",
+      "published_date": "2020-09-08",
+      "updated": "2020-09-15 12:34:58",
+      "section": "Well",
+      "subsection": "Live",
+      "nytdsection": "well",
+      "adx_keywords": "Content Type: Service;Teeth and Dentistry;Bruxism;Anxiety and Stress;Telecommuting;Jaw (Body Part);Coronavirus (2019-nCoV);Quarantine (Life and Culture)",
+      "column": null,
+      "byline": "By Tammy Chen, D.D.S.",
+      "type": "Article",
+      "title": "A Dentist Sees More Cracked Teeth. What\u2019s Going On?",
+      "abstract": "When I reopened my dental practice in early June, the tooth fractures started coming in: at least one a day, every single day that I\u2019ve been in the office.",
+      "des_facet": [
+        "Content Type: Service",
+        "Teeth and Dentistry",
+        "Bruxism",
+        "Anxiety and Stress",
+        "Telecommuting",
+        "Jaw (Body Part)",
+        "Coronavirus (2019-nCoV)",
+        "Quarantine (Life and Culture)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/15/well/well-teeth/well-teeth-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/15/well/well-teeth/well-teeth-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/15/well/well-teeth/well-teeth-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/27fbd661-ad27-57be-bd5b-19162c08e3ed",
+      "url": "https://www.nytimes.com/2020/09/02/opinion/education-prejudice.html",
+      "id": 100000007314783,
+      "asset_id": 100000007314783,
+      "source": "New York Times",
+      "published_date": "2020-09-02",
+      "updated": "2020-09-05 19:10:12",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Presidential Election of 2020;Colleges and Universities;Discrimination;Income Inequality;Education;United States Politics and Government;Biden, Joseph R Jr;Trump, Donald J;Democratic Party",
+      "column": null,
+      "byline": "By Michael J. Sandel",
+      "type": "Article",
+      "title": "Disdain for the Less Educated Is the Last Acceptable Prejudice",
+      "abstract": "It\u2019s having a corrosive effect on American life \u2014 and hurting the Democratic Party.",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Colleges and Universities",
+        "Discrimination",
+        "Income Inequality",
+        "Education",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Democratic Party"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u00a0",
+          "copyright": "Illustration by Elena Scotti; photographs by Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/06/opinion/sunday/02sandel/02sandel-thumbStandard-v2.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/06/opinion/sunday/02sandel/02sandal-mediumThreeByTwo210.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/06/opinion/sunday/02sandel/02sandal-mediumThreeByTwo440.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/0a3de788-9b76-5f2e-8c75-403f4085914d",
+      "url": "https://www.nytimes.com/2020/09/24/nyregion/regis-catholic-school-racism.html",
+      "id": 100000007343805,
+      "asset_id": 100000007343805,
+      "source": "New York Times",
+      "published_date": "2020-09-24",
+      "updated": "2020-09-27 01:32:23",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Private and Sectarian Schools;Black People;Discrimination;Regis High School;Manhattan (NYC)",
+      "column": null,
+      "byline": "By Rainier Harris",
+      "type": "Article",
+      "title": "This Is the Casual Racism That I Face at My Elite High School",
+      "abstract": "Unexpectedly, the school did something about it.",
+      "des_facet": [
+        "Private and Sectarian Schools",
+        "Black People",
+        "Discrimination"
+      ],
+      "org_facet": [
+        "Regis High School"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Manhattan (NYC)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rainier Harris, a senior at Regis High School, near his home in Queens.",
+          "copyright": "Hiroko Masuike/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/27/nyregion/27REGISE1/merlin_177360120_541985e9-0efc-43c2-bb6a-ca13761af961-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/27/nyregion/27REGISE1/merlin_177360120_541985e9-0efc-43c2-bb6a-ca13761af961-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/27/nyregion/27REGISE1/merlin_177360120_541985e9-0efc-43c2-bb6a-ca13761af961-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e57391a4-9eb6-50aa-8fc5-2494227f2467",
+      "url": "https://www.nytimes.com/2020/09/18/us/ruth-bader-ginsburg-dead.html",
+      "id": 100000007283185,
+      "asset_id": 100000007283185,
+      "source": "New York Times",
+      "published_date": "2020-09-18",
+      "updated": "2020-09-24 18:51:34",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Deaths (Obituaries);United States Politics and Government;Women and Girls;Women's Rights;Ginsburg, Ruth Bader;Supreme Court (US)",
+      "column": null,
+      "byline": "By Linda Greenhouse",
+      "type": "Article",
+      "title": "Ruth Bader Ginsburg, Supreme Court\u2019s Feminist Icon, Is Dead at 87",
+      "abstract": "The second woman appointed to the Supreme Court, Justice Ginsburg\u2019s pointed and powerful dissenting opinions earned her late-life rock stardom.",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "United States Politics and Government",
+        "Women and Girls",
+        "Women's Rights"
+      ],
+      "org_facet": [
+        "Supreme Court (US)"
+      ],
+      "per_facet": [
+        "Ginsburg, Ruth Bader"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Justice Ruth Bader Ginsburg was the leader of the court\u2019s four-member liberal wing.Credit...",
+          "copyright": "Todd Heisler/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/19/reader-center/19ginsburg-promosub/19ginsburg-hp-sub-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/19/reader-center/19ginsburg-promosub/19ginsburg-hp-sub-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/19/reader-center/19ginsburg-promosub/19ginsburg-hp-sub-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/0525de83-8774-5f76-8d16-5b8e08a71b92",
+      "url": "https://www.nytimes.com/2020/09/03/opinion/trump-election-2020.html",
+      "id": 100000007322851,
+      "asset_id": 100000007322851,
+      "source": "New York Times",
+      "published_date": "2020-09-03",
+      "updated": "2020-09-05 16:54:06",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "United States Politics and Government;Presidential Election of 2020;Polls and Public Opinion;Constitution (US);Trump, Donald J;Democratic Party;House of Representatives;United States",
+      "column": null,
+      "byline": "By David Brooks",
+      "type": "Article",
+      "title": "What Will You Do if Trump Doesn\u2019t Leave?",
+      "abstract": "Playing out the nightmare scenario.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Presidential Election of 2020",
+        "Polls and Public Opinion",
+        "Constitution (US)"
+      ],
+      "org_facet": [
+        "Democratic Party",
+        "House of Representatives"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u00a0",
+          "copyright": "Photo illustration by Devin Oktar Yalkin for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/03/opinion/03brooksWeb/03brooksWeb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/03/opinion/03brooksWeb/03brooksWeb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/03/opinion/03brooksWeb/03brooksWeb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e23447f9-7c8e-5e2e-9fe0-8c1668307f1e",
+      "url": "https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html",
+      "id": 100000007356175,
+      "asset_id": 100000007356175,
+      "source": "New York Times",
+      "published_date": "2020-09-23",
+      "updated": "2020-09-24 11:43:38",
+      "section": "World",
+      "subsection": "Europe",
+      "nytdsection": "world",
+      "adx_keywords": "Coronavirus (2019-nCoV);Dogs;Tests (Medical);Research;Helsinki (Finland)",
+      "column": null,
+      "byline": "By Elian Peltier",
+      "type": "Article",
+      "title": "The Nose Needed for This Coronavirus Test Isn\u2019t Yours. It\u2019s a Dog\u2019s.",
+      "abstract": "Several animals now working on a trial at Helsinki\u2019s airport have been trained to detect the virus by scent on arriving passengers.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Dogs",
+        "Tests (Medical)",
+        "Research"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Helsinki (Finland)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "One of the dogs trained to detect the coronavirus with its trainer at the Helsinki airport.",
+          "copyright": "Lehtikuva, via Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/23/world/23finland-dogs-01/23finland-dogs-01-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/23/world/23finland-dogs-01/23finland-dogs-01-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/23/world/23finland-dogs-01/23finland-dogs-01-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/633f0a6d-c562-5cd6-89ed-b31a1e41ff18",
+      "url": "https://www.nytimes.com/2020/09/23/sports/sled-dogs-mushing-unknowns-planning.html",
+      "id": 100000007320813,
+      "asset_id": 100000007320813,
+      "source": "New York Times",
+      "published_date": "2020-09-23",
+      "updated": "2020-09-29 11:02:00",
+      "section": "Sports",
+      "subsection": "",
+      "nytdsection": "sports",
+      "adx_keywords": "Dog Sledding;Coronavirus (2019-nCoV);Dogs;Quarantine (Life and Culture)",
+      "column": null,
+      "byline": "By Blair Braverman",
+      "type": "Article",
+      "title": "What My Sled Dogs Taught Me About Planning for the Unknown",
+      "abstract": "Working with them in the wilderness means negotiating countless shifting variables. Sounds a lot like the world we\u2019re living in.",
+      "des_facet": [
+        "Dog Sledding",
+        "Coronavirus (2019-nCoV)",
+        "Dogs",
+        "Quarantine (Life and Culture)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Blair Braverman and some of her dogs at the Alpine Creek Lodge, which is on mile 68 of the Denali Highway, east of Cantwell, Alaska. And, yes, those are bootees on the dogs\u2019 feet.",
+          "copyright": "Nathaniel Wilder",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/23/multimedia/23SP-RESILIENCE-MUSHING1/23SP-RESILIENCE-MUSHING1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/23/multimedia/23SP-RESILIENCE-MUSHING1/23SP-RESILIENCE-MUSHING1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/23/multimedia/23SP-RESILIENCE-MUSHING1/23SP-RESILIENCE-MUSHING1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/9d7dd6cd-2df7-5aee-ba8a-49718f57c49d",
+      "url": "https://www.nytimes.com/2020/09/09/movies/leaving-netflix-september.html",
+      "id": 100000007330241,
+      "asset_id": 100000007330241,
+      "source": "New York Times",
+      "published_date": "2020-09-09",
+      "updated": "2020-09-12 19:29:27",
+      "section": "Movies",
+      "subsection": "",
+      "nytdsection": "movies",
+      "adx_keywords": "Movies;Netflix Inc",
+      "column": null,
+      "byline": "By Jason Bailey",
+      "type": "Article",
+      "title": "Watch These 15 Movies Before They Leave Netflix This Month",
+      "abstract": "From blockbusters to beloved indies, a lot of great movies are leaving the streaming service by the end of September. These are the ones not to miss.",
+      "des_facet": [
+        "Movies"
+      ],
+      "org_facet": [
+        "Netflix Inc"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chris Strompolos as Indiana Jones in his fan movie \u201cRaiders!: The Story of the Greatest Fan Film Ever Made.\u201d",
+          "copyright": "Drafthouse Films",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2016/06/17/arts/09leaving-netflix-radiers/raiders2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/06/17/arts/09leaving-netflix-radiers/raiders2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2016/06/17/arts/09leaving-netflix-radiers/raiders2-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/8cde129e-46e7-5c79-8022-e23d4cf19402",
+      "url": "https://www.nytimes.com/2020/09/30/us/politics/trump-debate-election.html",
+      "id": 100000007369574,
+      "asset_id": 100000007369574,
+      "source": "New York Times",
+      "published_date": "2020-09-30",
+      "updated": "2020-10-01 14:37:54",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2020;Absentee Voting;Voter Fraud (Election Fraud);Debates (Political);Rumors and Misinformation;Russian Interference in 2016 US Elections and Ties to Trump Associates;Cyberwarfare and Defense;Espionage and Intelligence Services;United States Politics and Government;Trump, Donald J;Biden, Joseph R Jr;Putin, Vladimir V;Russia",
+      "column": null,
+      "byline": "By David E. Sanger",
+      "type": "Article",
+      "title": "Tuesday\u2019s Debate Made Clear the Gravest Threat to the Election: The President Himself",
+      "abstract": "President Trump\u2019s unwillingness to say he would abide by the result and his disinformation campaign about election fraud went beyond anything President Vladimir V. Putin could have imagined.",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Absentee Voting",
+        "Voter Fraud (Election Fraud)",
+        "Debates (Political)",
+        "Rumors and Misinformation",
+        "Russian Interference in 2016 US Elections and Ties to Trump Associates",
+        "Cyberwarfare and Defense",
+        "Espionage and Intelligence Services",
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J",
+        "Biden, Joseph R Jr",
+        "Putin, Vladimir V"
+      ],
+      "geo_facet": [
+        "Russia"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump last month at a rally in Mosinee, Wis. He said on Tuesday that balloting already underway was \u201ca fraud and a shame\u201d and proof of \u201ca rigged election.\u201d",
+          "copyright": "Al Drago for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/us/politics/30dc-trumpthreats/30dc-trumpthreats-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/us/politics/30dc-trumpthreats/30dc-trumpthreats-mediumThreeByTwo210-v4.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/us/politics/30dc-trumpthreats/30dc-trumpthreats-mediumThreeByTwo440-v4.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d52b732d-874e-5f41-9f12-89b60ed34e53",
+      "url": "https://www.nytimes.com/2020/09/05/opinion/sunday/coronavirus-college-admissions.html",
+      "id": 100000007323206,
+      "asset_id": 100000007323206,
+      "source": "New York Times",
+      "published_date": "2020-09-05",
+      "updated": "2020-09-25 14:03:09",
+      "section": "Opinion",
+      "subsection": "Sunday Review",
+      "nytdsection": "opinion",
+      "adx_keywords": "Books and Literature;Colleges and Universities;Admissions Standards;SAT (College Admission Test);ACT (Examination);Coronavirus (2019-nCoV);Coronavirus Reopenings;Selingo, Jeffrey J",
+      "column": null,
+      "byline": "By Frank Bruni",
+      "type": "Article",
+      "title": "The Coronavirus May Change College Admissions Forever",
+      "abstract": "A pandemic returns the focus to what matters: education.",
+      "des_facet": [
+        "Books and Literature",
+        "Colleges and Universities",
+        "Admissions Standards",
+        "SAT (College Admission Test)",
+        "ACT (Examination)",
+        "Coronavirus (2019-nCoV)",
+        "Coronavirus Reopenings"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Selingo, Jeffrey J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Ben Wiseman",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/06/opinion/sunday/05bruni1/05bruni1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/06/opinion/sunday/05bruni1/05bruni1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/06/opinion/sunday/05bruni1/05bruni1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/fe999851-f30f-50e9-b471-a9e2e9d848d2",
+      "url": "https://www.nytimes.com/2020/09/11/nyregion/oswego-jewish-refugees-world-war-two.html",
+      "id": 100000007329439,
+      "asset_id": 100000007329439,
+      "source": "New York Times",
+      "published_date": "2020-09-11",
+      "updated": "2020-09-14 06:21:37",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Holocaust and the Nazi Era;Refugees and Displaced Persons;Immigration and Emigration;World War II (1939-45);Jews and Judaism;United States Politics and Government;Roosevelt, Franklin Delano;Oswego (NY);Lake Ontario",
+      "column": null,
+      "byline": "By Keren Blankfeld",
+      "type": "Article",
+      "title": "The Secret History of America\u2019s Only WWII Refugee Camp",
+      "abstract": "At the height of the war, 982 refugees fleeing the Nazis were invited by President Roosevelt to a converted military base in upstate New York.",
+      "des_facet": [
+        "Holocaust and the Nazi Era",
+        "Refugees and Displaced Persons",
+        "Immigration and Emigration",
+        "World War II (1939-45)",
+        "Jews and Judaism",
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Roosevelt, Franklin Delano"
+      ],
+      "geo_facet": [
+        "Oswego (NY)",
+        "Lake Ontario"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Elfi Hendell, whose family was forced to flee Vienna in World War II, arrived as an 11-year-old as one of 982 refugees taken in by the United States.",
+          "copyright": "Sara Naomi Lewkowicz for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/13/nyregion/13jpREFUGEES2/13jpREFUGEES2-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/13/nyregion/13jpREFUGEES2/13jpREFUGEES2-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/13/nyregion/13jpREFUGEES2/13jpREFUGEES2-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}
